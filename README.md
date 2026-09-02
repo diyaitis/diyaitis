@@ -1,16 +1,100 @@
-### Hi, I'm Diya 👋
+<!-- ══════════════════════════════════════════════ -->
+<!-- DIYA CHINIWALA — github.com/diyaitis          -->
+<!-- ══════════════════════════════════════════════ -->
 
-Software Engineer building full-stack products and applied GenAI/Agentic AI systems — RAG pipelines, LLM orchestration, and agent-based tooling, alongside production backend and frontend work.
+<div align="center">
 
-**Currently:** Software Engineer @ ThoughtIn · previously SDE Intern @ Amazon
+<a href="https://github.com/diyaitis">
+<img src="./assets/hero.svg" alt="Diya Chiniwala — Software Engineer, GenAI &amp; Agentic AI" width="100%"/>
+</a>
 
-**Stack:** Java/Spring Boot · Python/FastAPI · React/TypeScript · AWS/GCP · LLMs & RAG (pgvector, multi-model routing)
+<br/>
 
-#### A few things I've built
-- **[Lenny Growth Assistant](https://github.com/diyaitis/lenny-growth-assistant)** — full-stack RAG chat assistant with an agent-routing layer for grounded Q&A, long-form generation, and sandboxed artifact rendering, backed by a pluggable multi-LLM layer (Claude, GPT-4, local Ollama).
-- **[Resume Screening OpenEnv](https://github.com/diyaitis/Openenv-hackathon)** — an agentic evaluation environment where an LLM agent decides shortlist/reject on resumes against a job description, scored programmatically and by an LLM judge. **[Live demo](https://harsh494-resume-openenv.hf.space)**
-- **[Purplle Store Intelligence](https://github.com/diyaitis/purplle-store-intelligence)** — full-stack store intelligence system (FastAPI, React, YOLOv8, Redis, Postgres, Docker) built for the Purplle Tech Challenge. **[Live demo](https://purplle-store-intelligence-dashboard.vercel.app)**
-- **[Solari Price Watcher](https://github.com/diyaitis/solari-cookbook/tree/main/examples/price-watcher-ts)** — a cloud-browser price/restock watcher on Solari's agent infrastructure, running on a live scheduled pipeline: [![price-watcher](https://github.com/diyaitis/solari-cookbook/actions/workflows/price-watcher.yml/badge.svg)](https://github.com/diyaitis/solari-cookbook/actions/workflows/price-watcher.yml)
-- **[Book Manager](https://github.com/diyaitis/book-manager)** — full-stack book tracking app with auth. **[Live demo](https://book-manager-green.vercel.app)**
+<a href="https://github.com/diyaitis">
+  <img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=600&size=15&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=32&lines=Shipping+full-stack+products+and+RAG%2Fagentic+systems...;LLM+orchestration+%C3%97+retrieval+%C3%97+production+backends" alt="Typing SVG"/>
+</a>
 
-📫 [LinkedIn](https://linkedin.com/in/diya-chiniwala-b68a1a259) · diya.chiniwala@gmail.com
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=diyaitis&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile Views"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/diyaitis?style=flat-square&color=8B5CF6&labelColor=131826&label=FOLLOWERS" alt="Followers"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/github/stars/diyaitis?style=flat-square&color=8B5CF6&labelColor=131826&label=STARS&affiliations=OWNER" alt="Stars"/>
+
+</div>
+
+<img src="./assets/divider.svg" alt="" width="100%"/>
+
+<!-- ═══════════ PROJECTS ═══════════ -->
+
+<div align="center">
+
+<a href="https://github.com/diyaitis/lenny-growth-assistant">
+<img src="./assets/card-lenny.svg" alt="Lenny Growth Assistant" width="100%"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/diyaitis/purplle-store-intelligence">
+<img src="./assets/card-purplle.svg" alt="Purplle Store Intelligence" width="100%"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/diyaitis/Openenv-hackathon">
+<img src="./assets/card-openenv.svg" alt="Resume Screening OpenEnv" width="100%"/>
+</a>
+
+<br/><br/>
+
+<table>
+<tr>
+<td><a href="https://github.com/diyaitis/solari-cookbook/tree/main/examples/price-watcher-ts"><img src="./assets/mini-solari.svg" alt="Solari Price Watcher" width="100%"/></a></td>
+<td><a href="https://github.com/diyaitis/book-manager"><img src="./assets/mini-bookmanager.svg" alt="Book Manager" width="100%"/></a></td>
+</tr>
+</table>
+
+</div>
+
+<img src="./assets/divider.svg" alt="" width="100%"/>
+
+<!-- ═══════════ STACK ═══════════ -->
+
+<div align="center">
+<img src="./assets/stack.svg" alt="Tech Stack" width="100%"/>
+</div>
+
+<img src="./assets/divider.svg" alt="" width="100%"/>
+
+<!-- ═══════════ GITHUB ACTIVITY ═══════════ -->
+
+<div align="center">
+
+<a href="https://github.com/diyaitis">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=diyaitis&hide_border=true&background=131826&stroke=8B5CF600&ring=8B5CF6&fire=22D3EE&currStreakNum=F1F5F9&sideNums=F1F5F9&currStreakLabel=8B5CF6&sideLabels=94A3B8&dates=5B6786" alt="Streak Stats"/>
+</a>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diyaitis/diyaitis/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diyaitis/diyaitis/output/github-snake.svg"/>
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/diyaitis/diyaitis/output/github-snake-dark.svg" width="95%"/>
+</picture>
+
+</div>
+
+<img src="./assets/divider.svg" alt="" width="100%"/>
+
+<!-- ═══════════ CONNECT ═══════════ -->
+
+<div align="center">
+
+<a href="https://linkedin.com/in/diya-chiniwala-b68a1a259"><code>LinkedIn</code></a> &#183;
+<a href="mailto:diya.chiniwala@gmail.com"><code>Email</code></a> &#183;
+<a href="https://github.com/diyaitis"><code>GitHub</code></a>
+
+</div>
+
+<img src="./assets/footer.svg" alt="" width="100%"/>

@@ -72,7 +72,7 @@
 <div align="center">
 
 <a href="https://github.com/diyaitis">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=diyaitis&hide_border=true&background=131826&stroke=8B5CF600&ring=8B5CF6&fire=22D3EE&currStreakNum=F1F5F9&sideNums=F1F5F9&currStreakLabel=8B5CF6&sideLabels=94A3B8&dates=5B6786" alt="Streak Stats"/>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=diyaitis&disable_animations=true&hide_border=true&background=131826&stroke=8B5CF600&ring=8B5CF6&fire=22D3EE&currStreakNum=F1F5F9&sideNums=F1F5F9&currStreakLabel=8B5CF6&sideLabels=94A3B8&dates=5B6786" alt="Streak Stats"/>
 </a>
 
 <br/><br/>

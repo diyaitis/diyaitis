@@ -1,0 +1,30 @@
+<svg width="1200" height="168" viewBox="0 0 1200 168" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#131826"/>
+      <stop offset="100%" stop-color="#171E30"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="168" rx="16" fill="url(#bg1)"/>
+  <rect width="1200" height="168" rx="16" fill="none" stroke="#232A3D" stroke-width="1.5"/>
+  <rect x="0" y="20" width="6" height="128" rx="3" fill="#8B5CF6"/>
+
+  <text x="48" y="52" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#F1F5F9">Lenny Growth Assistant</text>
+  <rect x="1020" y="30" width="132" height="26" rx="13" fill="#1B2236" stroke="#2E3752"/>
+  <text x="1040" y="47" font-family="Consolas, Menlo, monospace" font-size="11" font-weight="700" fill="#22D3EE">RAG + AGENTIC</text>
+
+  <text x="48" y="82" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14.5" fill="#94A3B8">Full-stack RAG chat assistant over podcast transcripts, with an agent-routing layer for</text>
+  <text x="48" y="102" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14.5" fill="#94A3B8">grounded Q&amp;A, long-form generation, and sandboxed artifact rendering &#8212; backed by a</text>
+  <text x="48" y="122" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14.5" fill="#94A3B8">pluggable multi-LLM layer (Claude, GPT-4, local Ollama) with automatic failover.</text>
+
+  <g font-family="Consolas, Menlo, monospace" font-size="12" font-weight="600">
+    <rect x="48" y="136" width="96" height="22" rx="11" fill="#1B2236" stroke="#2E3752"/>
+    <text x="62" y="151" fill="#8B5CF6">FastAPI</text>
+    <rect x="152" y="136" width="80" height="22" rx="11" fill="#1B2236" stroke="#2E3752"/>
+    <text x="166" y="151" fill="#8B5CF6">React</text>
+    <rect x="240" y="136" width="128" height="22" rx="11" fill="#1B2236" stroke="#2E3752"/>
+    <text x="254" y="151" fill="#8B5CF6">pgvector</text>
+    <rect x="376" y="136" width="88" height="22" rx="11" fill="#1B2236" stroke="#2E3752"/>
+    <text x="390" y="151" fill="#8B5CF6">Ollama</text>
+  </g>
+</svg>

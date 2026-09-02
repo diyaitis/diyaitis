@@ -1,0 +1,27 @@
+<svg width="1200" height="230" viewBox="0 0 1200 230" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg6" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#131826"/>
+      <stop offset="100%" stop-color="#171E30"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="230" rx="16" fill="url(#bg6)"/>
+  <rect width="1200" height="230" rx="16" fill="none" stroke="#232A3D" stroke-width="1.5"/>
+
+  <text x="40" y="42" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#F1F5F9">Stack</text>
+  <rect x="40" y="52" width="60" height="3" rx="1.5" fill="#8B5CF6"/>
+
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#5B6786">
+    <text x="40" y="82">GENAI / AGENTIC AI</text>
+    <text x="40" y="118">LANGUAGES</text>
+    <text x="40" y="154">FRAMEWORKS</text>
+    <text x="40" y="190">CLOUD &amp; DEVOPS</text>
+  </g>
+
+  <g font-family="Consolas, Menlo, monospace" font-size="13" fill="#DCE3F0">
+    <text x="230" y="82">LLMs &#183; RAG &#183; pgvector &#183; Agent Orchestration &#183; Prompt Engineering &#183; Multi-Model Routing</text>
+    <text x="230" y="118">Java &#183; Python &#183; TypeScript / JavaScript &#183; C++ &#183; R &#183; SQL</text>
+    <text x="230" y="154">Spring Boot &#183; FastAPI &#183; React &#183; Node.js &#183; Vue.js</text>
+    <text x="230" y="190">AWS &#183; Google Cloud &#183; Docker &#183; GitLab CI/CD &#183; Vercel &#183; Supabase</text>
+  </g>
+</svg>

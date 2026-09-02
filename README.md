@@ -13,4 +13,11 @@ Software Engineer building full-stack products and applied GenAI/Agentic AI syst
 - **[Solari Price Watcher](https://github.com/diyaitis/solari-cookbook/tree/main/examples/price-watcher-ts)** — a cloud-browser price/restock watcher on Solari's agent infrastructure, running on a live scheduled pipeline: [![price-watcher](https://github.com/diyaitis/solari-cookbook/actions/workflows/price-watcher.yml/badge.svg)](https://github.com/diyaitis/solari-cookbook/actions/workflows/price-watcher.yml)
 - **[Book Manager](https://github.com/diyaitis/book-manager)** — full-stack book tracking app with auth. **[Live demo](https://book-manager-green.vercel.app)**
 
+#### Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=diyaitis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Diya's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyaitis&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
+</p>
+
 📫 [LinkedIn](https://linkedin.com/in/diya-chiniwala-b68a1a259) · diya.chiniwala@gmail.com

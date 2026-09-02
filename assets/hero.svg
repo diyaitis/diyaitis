@@ -24,7 +24,7 @@
 
   <text x="56" y="98" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#F1F5F9">Diya Chiniwala</text>
 
-  <text x="58" y="136" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" fill="#94A3B8">Software Engineer &#8212; GenAI &amp; Agentic AI Systems</text>
+  <text x="58" y="136" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" fill="#94A3B8">Software Engineering Student &#8212; GenAI &amp; Agentic AI Systems</text>
 
   <!-- tag chips -->
   <g font-family="Consolas, Menlo, monospace" font-size="13" font-weight="600">
@@ -41,5 +41,5 @@
     <text x="508" y="180" fill="#8B5CF6">Cloud &amp; DevOps</text>
   </g>
 
-  <text x="58" y="222" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#5B6786">Software Engineer @ ThoughtIn &#183; previously SWE Intern @ ThoughtIn &amp; Amazon</text>
+  <text x="58" y="222" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#5B6786">Software Engineering Intern @ ThoughtIn &amp; Amazon</text>
 </svg>

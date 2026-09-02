@@ -5,7 +5,7 @@
 <div align="center">
 
 <a href="https://github.com/diyaitis">
-<img src="./assets/hero.svg" alt="Diya Chiniwala — Software Engineer, GenAI &amp; Agentic AI" width="100%"/>
+<img src="./assets/hero.svg" alt="Diya Chiniwala — Software Engineering Student, GenAI &amp; Agentic AI" width="100%"/>
 </a>
 
 <br/>
